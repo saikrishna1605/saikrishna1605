@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/hero-banner.jpg" alt="Sai Krishna Mukka — AI · Data Engineering · Full-Stack" width="100%" />
+  <img src="assets/hero-banner.jpg" alt="Sai Krishna Mukka — AI · Data Engineering · Full-Stack" width="960" />
 </div>
 
 <br/>
@@ -113,24 +113,19 @@
 ### Contribution Activity
 
 <div align="center">
+  <img src="assets/contribution-grid.svg" alt="GitHub contribution calendar with months, weekdays, and daily submission counts" width="900" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://ghchart.rshah.org/2dd4bf/saikrishna1605" alt="GitHub contributions by month" width="900" />
+</div>
+
+<br/>
+
+<div align="center">
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=saikrishna1605&bg_color=0d1117&color=8b949e&line=2dd4bf&point=58a6ff&area=true&hide_border=true&custom_title=Contribution%20Graph" alt="Contribution activity graph" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img width="100%" src="assets/contribution-grid.svg" alt="GitHub contribution grid" />
-</div>
-
-
-<br/>
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/saikrishna1605/saikrishna1605/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/saikrishna1605/saikrishna1605/output/github-contribution-grid-snake.svg" />
-    <img alt="github contribution snake" src="https://raw.githubusercontent.com/saikrishna1605/saikrishna1605/output/github-contribution-grid-snake-dark.svg" />
-  </picture>
 </div>
 
 <br/>
