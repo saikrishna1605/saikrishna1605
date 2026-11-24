@@ -1,19 +1,20 @@
 <div align="center">
-  <img src="assets/hero-banner.jpg" alt="Sai Krishna Mukka — AI · Data Engineering · Full-Stack" width="960" />
+  <img src="assets/hero-banner.jpg" alt="Sai Krishna Mukka" width="960" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="assets/wave-divider.svg" alt="" width="720" />
+  <a href="https://github.com/saikrishna1605">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=2DD4BF&center=true&vCenter=true&width=720&lines=AI+%C2%B7+Data+Engineering+%C2%B7+Full-Stack;Computer+Science+student;Building+scalable+web+%26+AI+systems;@saikrishna1605" alt="Dynamic typing intro" />
+  </a>
 </div>
 
 <br/>
 
 <div align="center">
-  <h2>Sai Krishna Mukka</h2>
   <p>
-    Computer Science student with hands-on experience in
+    Hi, I'm <b>Sai Krishna Mukka</b> — a passionate Computer Science student with hands-on experience in
     <b>AI</b>, <b>Data Engineering</b>, and <b>Full-Stack Development</b>.
   </p>
   <p>
@@ -29,6 +30,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/saikrishna-mukka-7b9247265)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@saikrishnamukka942)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saikrishnamukka942@gmail.com)
+![Profile views](https://komarev.com/ghpvc/?username=saikrishna1605&label=Profile%20views&color=2dd4bf&style=for-the-badge)
 
 </div>
 
@@ -100,32 +102,31 @@
 ### GitHub Stats
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=saikrishna1605&show_icons=true&include_all_commits=false&count_private=false&hide_border=true&bg_color=0D1117&title_color=2DD4BF&icon_color=58A6FF&text_color=C9D1D9&ring_color=2DD4BF" alt="GitHub stats" />
-  <img height="170" src="https://streak-stats.demolab.com?user=saikrishna1605&hide_border=true&background=0D1117&ring=2DD4BF&fire=2DD4BF&currStreakLabel=2DD4BF&sideLabels=8B949E&sideNums=C9D1D9&dates=8B949E&currStreakNum=C9D1D9" alt="GitHub streak" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=saikrishna1605&show_icons=true&include_all_commits=false&count_private=false&hide_border=true&bg_color=0D1117&title_color=2DD4BF&icon_color=58A6FF&text_color=C9D1D9&ring_color=2DD4BF&cache_seconds=1800" alt="GitHub stats" />
+  &nbsp;
+  <img height="165" src="https://streak-stats.demolab.com?user=saikrishna1605&hide_border=true&background=0D1117&ring=2DD4BF&fire=2DD4BF&currStreakLabel=2DD4BF&sideLabels=8B949E&sideNums=C9D1D9&dates=8B949E&currStreakNum=C9D1D9" alt="GitHub streak" />
 </div>
 
+<br/>
+
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saikrishna1605&layout=compact&hide_border=true&bg_color=0D1117&title_color=2DD4BF&text_color=C9D1D9&langs_count=8" alt="Top languages" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saikrishna1605&layout=compact&hide_border=true&bg_color=0D1117&title_color=2DD4BF&text_color=C9D1D9&langs_count=8&cache_seconds=1800" alt="Top languages" />
 </div>
 
 <br/>
 
 ### Contribution Activity
 
+<p align="center">Daily submissions by month — live from GitHub</p>
+
 <div align="center">
-  <img src="assets/contribution-grid.svg" alt="GitHub contribution calendar with months, weekdays, and daily submission counts" width="900" />
+  <img src="https://ghchart.rshah.org/2dd4bf/saikrishna1605" alt="Live GitHub contribution calendar with months and weekdays" width="100%" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://ghchart.rshah.org/2dd4bf/saikrishna1605" alt="GitHub contributions by month" width="900" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=saikrishna1605&bg_color=0d1117&color=8b949e&line=2dd4bf&point=58a6ff&area=true&hide_border=true&custom_title=Contribution%20Graph" alt="Contribution activity graph" />
+  <img width="100%" src="https://github-readme-activity-graph.ashutosh-dwivedi0710.workers.dev/graph?username=saikrishna1605&bg_color=0d1117&color=8b949e&line=2dd4bf&point=58a6ff&area=true&hide_border=true&custom_title=Contribution%20Activity" alt="Live contribution activity graph" />
 </div>
 
 <br/>
@@ -133,15 +134,11 @@
 ### GitHub Trophies
 
 <div align="center">
-  <img src="https://trophy.ryglcloud.net/?username=saikrishna1605&theme=algolia&no-frame=true&no-bg=true&margin-w=6&column=7&title=MultiLanguage,Repositories,Commits,Experience,Stars,Followers,PullRequest" alt="GitHub trophies" />
+  <img src="https://trophy.ryglcloud.net/?username=saikrishna1605&theme=flat&no-frame=true&no-bg=true&margin-w=18&margin-h=12&column=4&title=MultiLanguage,Commits,Experience,Stars,Followers,PullRequest" alt="Live GitHub trophies" />
 </div>
 
 <br/>
 
----
-
 <div align="center">
-  <img src="https://visitcount.itsvg.in/api?id=saikrishna1605&icon=3&color=3" alt="profile visits" />
-  <br/>
-  <sub>Open to collaborations in AI, data, and full-stack systems</sub>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:0D1117,50:0F766E,100:0D1117&section=footer" width="100%" alt="" />
 </div>
